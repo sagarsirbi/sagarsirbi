@@ -5,7 +5,6 @@
       <h3>A passionate Software developer from Germany</h3>
       👩🏻‍💻 Systems Engineer with passion towards programming and Data science <br>
       👩🏻‍🎓 Studied Mechatronics at University of Siegen, Germany. <br>
-     
     </td>
     <td>
       <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHQyaGV1OHhqNHJtOXlqdDNuaWsxbnI0ZGQ3NDl4cnM0ZnV3ZDNudiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />

@@ -3,7 +3,7 @@
   <tr>
     <td>
       🚗 Experienced in Connected Car Technologies — Working on connected vehicle services and developing tools for system diagnostics, tracing, and logging </br>
-      🌐 Skilled in Network Protocols — Hands-on experience with TCP/IP, MQTT, and SOCKS, focusing on communication tools and data analysis </br>
+      🌐 Skilled in Network Protocols — Hands-on experience with TCP/IP, UDS, MQTT, and SOCKS, focusing on communication tools and data analysis </br>
       🐍 Python Developer — Developing applications for automation, data processing, and backend systems using Python and web frameworks like Django </br>
       💻 Strong interest in Software Engineering, Backend Development, and Data-Driven Applications </br>
       🛠️ Open to collaborating on innovative projects that combine engineering, programming, and real-world problem-solving </br>

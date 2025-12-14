@@ -1,4 +1,4 @@
-<h1>👋 Hi, I'm a Systems Engineer with a passion for software development and problem-solving </h1>
+<h1> Systems Engineer with a passion for software development and problem-solving </h1>
 <table>
   <tr>
     <td>

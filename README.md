@@ -9,7 +9,7 @@
       🛠️ Open to collaborating on innovative projects that combine engineering, programming, and real-world problem-solving </br>
     </td>
     <td>
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHQyaGV1OHhqNHJtOXlqdDNuaWsxbnI0ZGQ3NDl4cnM0ZnV3ZDNudiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanpqcjN6c2FlZnV6aXdhNnR1eTJoYnA1YWdhaGs4ZTM0NzZhZTcxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif" width="300" />
     </td>
   </tr>
 </table>

@@ -16,7 +16,8 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sagarsirbi05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sagarsirbi05/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sagarsirbi05/" target="blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg" alt="https://www.linkedin.com/in/sagarsirbi05/" height="30"/></a>   
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sagarsirbi05/" target="blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg" alt="https://www.linkedin.com/in/sagarsirbi05/" height="30"/></a>
 </p>
 
 

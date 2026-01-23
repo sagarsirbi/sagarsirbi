@@ -21,7 +21,15 @@
 
 
 <h3 align="left">Languages and Tools</h3>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django1.svg" height="28" /> 
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi1.svg" height="28" /> 
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg" height="28" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue1.svg" height="28" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android1.svg" height="28" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg" height="28" />
+
+
+
 
 
 ![sagarsirbi's Stats](https://github-readme-stats.vercel.app/api?username=sagarsirbi&theme=dark&show_icons=true&hide_border=true&count_private=true)

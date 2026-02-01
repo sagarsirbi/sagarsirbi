@@ -33,6 +33,8 @@
 <p align="left">
 <a target="blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg"  height="30"/></a>
 <a target="blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android1.svg"  height="30"/></a>
+<a target="blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg"  height="30"/></a>
+<a target="blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android1.svg"  height="30"/></a>
 </p>
 
 

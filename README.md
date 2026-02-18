@@ -1,12 +1,13 @@
 <h1> 👋 About me</h1>
- <div style="text-align: center;">
+ <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanpqcjN6c2FlZnV6aXdhNnR1eTJoYnA1YWdhaGs4ZTM0NzZhZTcxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif" width="300" />
  </div>
 
- <h3 align="center">A programming enthusiast who enjoys exploring emerguing technologies in automotive software space. I have deep interest in developing microservices for In-Vehicle Infotainment (IVI) systems and solutions for Software Defined Vehicles (SDV) .</h3>
+ <h3>A programming enthusiast who enjoys exploring emerguing technologies in automotive software space. I have deep interest in developing microservices for In-Vehicle Infotainment (IVI) systems and solutions for Software Defined Vehicles (SDV) .</h3>
 
  
 <h3> 🛰️ Automotive and Embedded Interests </h3> 
+
 - Software Defined Vehicles (SDV)
 
 - In-vehicle infotainment systems
@@ -56,9 +57,25 @@
 <p align="left">
 <a target="blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg"  height="30"/></a>
 <a target="blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android1.svg"  height="30"/></a>
-<a target="blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg"  height="30"/></a>
-<a target="blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android1.svg"  height="30"/></a>
+<a target="blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust1.svg"  height="30"/></a>
+<a target="blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite1.svg"  height="30"/></a>
+<a target="blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs1.svg"  height="30"/></a>
 </p>
+
+<p align="left">
+<a target="blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TensorFlow/tensorflow1.svg"  height="30"/></a>
+<a target="blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg"  height="30"/></a>
+<a target="blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyTorch/pytorch1.svg"  height="30"/></a>
+<a target="blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg"  height="30"/></a>
+<a target="blank"><img align="center" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg"  height="30"/></a>
+</p>
+
+ 
+ 
+ 
+ 
+ 
+
 
 
 

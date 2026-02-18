@@ -1,18 +1,41 @@
-<h1> Systems Engineer with a passion for software development and problem-solving </h1>
-<table>
-  <tr>
-    <td>
-      🚗 Experienced in Connected Car Technologies — Working on connected vehicle services and developing tools for system diagnostics, tracing, and logging </br>
-      🌐 Skilled in Network Protocols — Hands-on experience with TCP/IP, UDS, MQTT, and SOCKS, focusing on communication tools and data analysis </br>
-      🐍 Python Developer — Developing applications for automation, data processing, and backend systems using Python and web frameworks like Django </br>
-      💻 Strong interest in Software Engineering, Backend Development, and Data-Driven Applications </br>
-      🛠️ Open to collaborating on innovative projects that combine engineering, programming, and real-world problem-solving </br>
-    </td>
-    <td>
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanpqcjN6c2FlZnV6aXdhNnR1eTJoYnA1YWdhaGs4ZTM0NzZhZTcxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif" width="300" />
-    </td>
-  </tr>
-</table>
+<h1> 👋 About me</h1>
+ <div style="text-align: center;">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanpqcjN6c2FlZnV6aXdhNnR1eTJoYnA1YWdhaGs4ZTM0NzZhZTcxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif" width="300" />
+ </div>
+
+ <h3 align="center">A programming enthusiast who enjoys exploring emerguing technologies in automotive software space. I have deep interest in developing microservices for In-Vehicle Infotainment (IVI) systems and solutions for Software Defined Vehicles (SDV) .</h3>
+
+ 
+<h3> 🛰️ Automotive and Embedded Interests </h3> 
+- Software Defined Vehicles (SDV)
+
+- In-vehicle infotainment systems
+
+- Automotive diagnostics and communication
+
+- Tooling for automotive development and analysis
+
+<h3> 🌱 Currently Learning </h3>  
+
+ - Rust for systems and automotive tooling
+   
+ - Advanced SDV architecture and tooling
+   
+ - Building scalable developer tools for automotive diagnostics
+
+ <h3> 👯 Collaboration Interests </h3>
+
+- Automotive developer tools
+
+- SDV and infotainment experimentation
+
+- Rust-based system utilities
+
+- AI/ML for vehicle data analysis
+
+     
+ 
+
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
